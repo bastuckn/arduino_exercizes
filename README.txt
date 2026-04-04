@@ -7,4 +7,6 @@ Done:
 3. Provide power to LED via 5V output and breadboard, various resistors
 4. RGB LED with PWM analog output
 5. Use buttons to control LED
-6. Controll active buzzer
+6. Control active buzzer
+7. Control passive buzzer and play a melody
+
