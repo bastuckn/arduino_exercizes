@@ -9,4 +9,4 @@ Done:
 5. Use buttons to control LED
 6. Control active buzzer
 7. Control passive buzzer and play a melody
-
+8. Control 8 LEDs with 3 pins using 74HC595
