@@ -10,3 +10,4 @@ Done:
 6. Control active buzzer
 7. Control passive buzzer and play a melody
 8. Control 8 LEDs with 3 pins using 74HC595
+9. Serial Monitor to control LEDs with user input
