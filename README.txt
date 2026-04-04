@@ -6,3 +6,5 @@ Done:
 2. Program internal LED to blink
 3. Provide power to LED via 5V output and breadboard, various resistors
 4. RGB LED with PWM analog output
+5. Use buttons to control LED
+
