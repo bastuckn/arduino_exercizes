@@ -2,7 +2,6 @@ Completing the hardware and coding exercizes for the Elegoo Electronics Fun Kit 
 
 Done: 
 
-0. Installing the IDE
-1. Add Libraries and Open Serial Monitor
+1. Install the IDE, add libraries and Open serial monitor
 2. Program internal LED to blink
 3. Provide power to LED via 5V output and breadboard, various resistors
